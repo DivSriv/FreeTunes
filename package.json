@@ -1,5 +1,5 @@
 {
-  "name": "tunesforyou-app",
+  "name": "freetunes-v1",
   "version": "0.1.0",
   "private": true,
   "types": "./ts/main.d.ts",
