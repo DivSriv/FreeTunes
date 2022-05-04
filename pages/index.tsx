@@ -12,7 +12,7 @@ const Home = ({artists}) => {
   return (
     <GradientLayout 
       color="blackAlpha"
-      subtitle='Profile'
+      subtitle='PROFILE'
       title={isLoading ? null : (`${user.firstName} ${user.lastName}`)}
       description={'9 public playlists'}
       image={isLoading ? null : (`https://picsum.photos/200/300?random=${user.id}`)}
