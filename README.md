@@ -30,7 +30,7 @@ Some more functionalities will be added soon.
 
 `For user signin : Email => user@test.com Password => password`
 
-To add more features, you can start by cloning this Project:
+To add more features, you can start by cloning this Project, then:
 1. Install node
 2. Run `npm install` from Project directory, it will install all the dependencies
 3. Setup the database, I used Heroku -> PostgreSQL
