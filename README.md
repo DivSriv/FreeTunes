@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About FreeTunes Music App
 
-## Getting Started
+### Tools Used:
+> Reactjs
+> 
+> Nextjs
+> 
+> TypeScript
+> 
+> PostgreSQL
+> 
+> Prisma
+> 
+> Heroku
+> 
+> ChakraUI
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+The FreeTunes Music App v1 lets user play music ( non-copyrighted😅 ).
+Some more functionalities will be added soon.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Application Screenshots:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![ProjSS1](https://user-images.githubusercontent.com/72649014/166866127-c9162dbe-a1b7-4eec-991f-9a1b3f10c76d.jpg)
+![ProjSS3](https://user-images.githubusercontent.com/72649014/166867377-1de3d296-0e02-4dfb-9506-6bfe9d59444b.jpg)
+![ProjSS4](https://user-images.githubusercontent.com/72649014/166867381-c08d5b5f-9875-40a5-accc-d8982784f651.jpg)
+![ProjSS5](https://user-images.githubusercontent.com/72649014/166867383-073fab3c-70e0-4cba-9327-2bc1408f3301.jpg)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+`For user signin : Email => user@test.com Password => password`
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To add more features, you can start by cloning this Project:
+1. Install node
+2. Run `npm install` from Project directory, it will install all the dependencies
+3. Setup the database, I used Heroku -> PostgreSQL
+4. Install Prisma and connect it to the database
+5. Now you're good to go, don't forget to create a PR for any new feature
+6. And you can also deploy your own app on Vercel, Netlify,etc
