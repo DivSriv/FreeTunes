@@ -28,11 +28,11 @@ Some more functionalities will be added soon.
 
 
 
-`For user signin : Email => user@test.com Password => password`
+<!-- `For user signin : Email => user@test.com Password => password` -->
 
 To add more features, you can start by cloning this Project, then:
 1. Install node
-2. Run `npm install` from Project directory, it will install all the dependencies
+2. Run `npm install` from Project directory, it will install all the dependencies.
 3. Setup the database, I used Heroku -> PostgreSQL
 4. Install Prisma and connect it to the database
 5. Now you're good to go, don't forget to create a PR for any new feature
