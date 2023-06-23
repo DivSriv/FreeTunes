@@ -37,3 +37,6 @@ To add more features, you can start by cloning this Project, then:
 4. Install Prisma and connect it to the database
 5. Now you're good to go, don't forget to create a PR for any new feature
 6. And you can also deploy your own app on Vercel, Netlify,etc
+
+
+**Currently not live as Heroku dyno has been shut down
